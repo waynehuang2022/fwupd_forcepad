@@ -1,0 +1,3 @@
+[HIDRAW\VEN_2808]
+Plugin = focalfp
+GType = FuFocalfpHidDevice
